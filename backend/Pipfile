@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 flask = "*"
 python-dotenv = "*"
+flask-cors = "*"
+"flake8" = "*"
+yapf = "*"
 
 [dev-packages]
 
